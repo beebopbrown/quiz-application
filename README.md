@@ -8,12 +8,11 @@ set to get the submission done in time for the deadline. I will be adding the fe
 To Do's section.
 
 ## Requirements
-There are a few steps to check out the Project
-1. Install NodeJS and NPM [here](https://nodejs.org)
-2. Run `git clone https://github.com/beebopbrown/quiz-application.git`
-3. `cd /directory/to/application && npm install`
-4. `DEBUG=quiz npm start` to start the application
-5. Go to **localhost:3000** to view the site
+1. Install NodeJS and NPM [here](https://nodejs.org) <br />
+2. Run `git clone https://github.com/beebopbrown/quiz-application.git` <br />
+3. `cd /directory/to/application && npm install` <br />
+4. `DEBUG=quiz npm start` to start the application <br />
+5. Go to **localhost:3000** to view the site 
 
 ## To Do's
 1. Add more questions to the bank
