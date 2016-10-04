@@ -11,7 +11,7 @@ To Do's section.
 1. Install NodeJS and NPM [here](https://nodejs.org) <br />
 2. Run `git clone https://github.com/beebopbrown/quiz-application.git` <br />
 3. `cd /directory/to/application && npm install` <br />
-4. `DEBUG=quiz npm start` to start the application <br />
+4. `npm start` to start the application <br />
 5. Go to **localhost:3000** to view the site 
 
 ## To Do's
